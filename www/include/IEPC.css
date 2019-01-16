@@ -1,0 +1,144 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #f6f6f6; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #cccccc; SCROLLBAR-3DLIGHT-COLOR: #000000; SCROLLBAR-ARROW-COLOR: #5437ff; SCROLLBAR-TRACK-COLOR: #ffffff; SCROLLBAR-DARKSHADOW-COLOR: #ffffff
+link:#000000
+
+}
+
+.load{BORDER-RIGHT: 1px; BORDER-TOP: 1px; BORDER-LEFT: 1px; WIDTH: 93px; BORDER-BOTTOM: 1px; HEIGHT: 22px;color=#000000;background-image: url(images/loading.gif);}
+
+.none img{filter:none;}
+
+
+A.none img{filter:none;}
+A:hover.none img{filter:none;}
+A:link.none img{filter:none;}
+A:hover.link img{filter:none;}
+.gray{bgcolor:#f6f6f6;}
+
+A:hover {FONT-WEIGHT: bold; 
+	COLOR: #A4F200; TEXT-DECORATION: none;FONT-SIZE: 08pt; FONT-FAMILY: arial,helvetica;
+}
+A {FONT-WEIGHT: bold;
+	COLOR: #628ECA; TEXT-DECORATION: none;FONT-SIZE: 08pt; FONT-FAMILY: arial,helvetica;}
+
+A:hover img {filter:progid:DXImageTransform.Microsoft.Shadow(color='#cccccc', Direction=330, Strength=5);}
+
+A:link img {
+filter:progid:DXImageTransform.Microsoft.Shadow(color='#cccccc', Direction=135, Strength=3);
+}
+A:link.imgsmall img{
+filter:progid:DXImageTransform.Microsoft.Shadow(color='#ffffff', Direction=135, Strength=1);}
+A:hover.imgsmall img{
+filter:progid:DXImageTransform.Microsoft.Shadow(color='#ffffff', Direction=330, Strength=1);}
+A.imgsmall img{
+filter:progid:DXImageTransform.Microsoft.Shadow(color='#ffffff', Direction=135, Strength=1);}
+
+
+
+A IMG {filter:progid:DXImageTransform.Microsoft.Shadow(color='#cccccc', Direction=135, Strength=5);}
+
+
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #ff6600
+}
+.bigtext {border-color:#bdcee6;background-color:#bdcee6;FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none}
+.subtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #0066ff
+}
+.small {
+	FONT-SIZE: 8pt;
+}
+.little {
+	FONT-SIZE: 9pt
+}
+.titrubrique {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #ffffff; FONT-STYLE: italic
+}
+.question {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #ff9933
+}
+
+.noir {
+	COLOR: #000000
+}
+.orange {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ff6600
+}
+.blanc {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffee
+}
+.inp {
+	BORDER-RIGHT: #ff6600 1px solid; BORDER-TOP: #ff6600 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #ff6600 1px solid; COLOR: #ff6600; BORDER-BOTTOM: #ff6600 1px solid; FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #ffffff
+}
+.inpblue {
+	BORDER-RIGHT: #046fbd 1px solid; BORDER-TOP: #046fbd 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #046fbd 1px solid; COLOR: #046fbd; BORDER-BOTTOM: #046fbd 1px solid; FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #ffffff
+}
+.input {
+	BORDER-RIGHT: #336699 1px solid; BORDER-TOP: #336699 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #336699 1px solid; COLOR: #046fbd; BORDER-BOTTOM: #336699 1px solid; FONT-FAMILY: arial, helvetica; HEIGHT: 20px; BACKGROUND-COLOR: #ffffff;
+}
+SELECT {
+	BORDER-RIGHT: #046fbd 1px solid; BORDER-TOP: #046fbd 1px solid; FONT-SIZE: 10pt; BORDER-LEFT: #046fbd 1px solid;  COLOR: #046fbd; BORDER-BOTTOM: #046fbd 1px solid; FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #ffffff;
+}
+TEXTAREA {
+	BORDER-RIGHT: #046fbd 1px solid; BORDER-TOP: #046fbd 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #046fbd 1px solid; COLOR: #000000; BORDER-BOTTOM: #046fbd 1px solid; FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #ffffff;
+}
+.mininav {
+	FONT-SIZE: 8pt; FONT-FAMILY: arial,helvetica
+}
+.help {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.english {
+	FONT-SIZE: 10px; COLOR: #444444; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.but {
+	BORDER-RIGHT:#628ECA 1px solid; BORDER-TOP:#628ECA 1px solid; BORDER-LEFT:#628ECA 1px solid; WIDTH: 93px; BORDER-BOTTOM:#628ECA 1px solid; HEIGHT: 22px;color=#000000; BACKGROUND-COLOR: #ffffff;
+}
+
+submit.but {
+	BORDER-RIGHT:#628ECA 1px solid; BORDER-TOP:#628ECA 1px solid; BORDER-LEFT:#628ECA 1px solid; WIDTH: 93px; BORDER-BOTTOM:#628ECA 1px solid; HEIGHT: 22px;color=#000000; BACKGROUND-COLOR: #ffffff;
+}
+
+
+TABLE {
+	bgcolor: #F6F6F6
+}
+
+
+TD.orange{border-color:#bdcee6;background-color:#bdcee6;FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none}
+
+TD.bleu{background-color:#f6f6f6;FONT-SIZE: 12px; COLOR: #628ECA; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none;}
+
+TABLE.orange{border-color:#bdcee6;background-color:#bdcee6;}
+TR.orange{border-color:#bdcee6;}
+
+TD.blue{background-color:#e4e4e4;FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none;border-color:#bdcee6;FONT-STYLE:bold;}
+
+.gal{background-color:#f6f6f6;FONT-SIZE: 14px; COLOR: #628ECA; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none;border-color:#bdcee6;FONT-STYLE:bold;}
+TD.gal{background-color:#f6f6f6;FONT-SIZE: 14px; COLOR: #628ECA; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none;border-color:#bdcee6;FONT-STYLE:bold;}
+
+TD.gal_album{background-color:#e4e4e4;FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none;border-color:#bdcee6;FONT-STYLE:bold;}
+
+
+TD.titler{background-color:#bdcee6;FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif;border-color:#bdcee6;FONT-STYLE:bold;}
+
+.bleu{background-color:#e4e4e4;FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif;FONT-STYLE:none;}
+
+
+.pub{background-color:CCFF65;FONT-SIZE: 12px; COLOR: #628ECA; FONT-FAMILY: Arial, Helvetica, sans-serif;FONT-STYLE:none;BORDER-RIGHT: red 1.3px dashed; BORDER-TOP:red 1.3px dashed; FONT-SIZE: 9pt; BORDER-LEFT: red 1.3px dashed;BORDER-BOTTOM:red 1.3px dashed;}
+
+
+TD.info{background-color:yellow;FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none;border-color:#bdcee6;FONT-STYLE:bold;
+BORDER-RIGHT: red 1.3px dashed; BORDER-TOP:red 1.3px dashed; FONT-SIZE: 9pt; BORDER-LEFT: red 1.3px dashed; COLOR: #000000; BORDER-BOTTOM:red 1.3px dashed;}
+
+TD.info_soft{letter-spacing:0;background-color:#B9F1FF;FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none;border-color:#bdcee6;FONT-STYLE:bold;
+BORDER-RIGHT: red 1.3px dashed; BORDER-TOP:red 1.3px dashed; FONT-SIZE: 9pt; BORDER-LEFT: red 1.3px dashed; COLOR: #000000; BORDER-BOTTOM:red 1.3px dashed;}
+
+
+TD.nav {
+	FONT-SIZE:10pt;background-color:#f6f6f6; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none;
+}
+
+TD.music{background-color:f2f2f2;FONT-FAMILY: Arial, Helvetica, sans-serif;FONT-SIZE: 11px;COLOR: #628ECA;}
+
+TD.music1{background-color:e4e4e4;FONT-FAMILY: Arial, Helvetica, sans-serif;FONT-SIZE: 11px;COLOR: #628ECA;}
