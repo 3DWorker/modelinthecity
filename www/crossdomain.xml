@@ -1,0 +1,3 @@
+<cross-domain-policy>
+ <allow-access-from domain="http://www.modelinthecity.com/" to-ports="*"/>SameDomain
+</cross-domain-policy>

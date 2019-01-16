@@ -1,0 +1,63 @@
+* {
+	margin: 0px; padding: 0px;
+}
+body {
+	background: rgb(102, 102, 102); font-family: Verdana, sans;
+}
+h1 {
+	margin: 0px 0px 1em; padding: 0px 0px 0.3em; font-size: 1.6em; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 4px; border-bottom-style: solid;
+}
+h1.home {
+	margin: 0px; border: currentColor;
+}
+h2 {
+	margin: 1em 0px; padding: 0px 0px 0.3em; font-size: 1.2em; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 2px; border-bottom-style: solid;
+}
+h3 {
+	padding: 0px 0px 10px; font-size: 1.1em; font-weight: normal; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 2px; border-bottom-style: solid;
+}
+p {
+	margin: 1em 0px;
+}
+ul {
+	margin: 0px 0px 0px 20px;
+}
+dt {
+	margin: 1em 0px 0.2em; font-weight: bold;
+}
+dd {
+	margin: 0.2em 0px 1em;
+}
+#container {
+	background: rgb(255, 255, 255); margin: 0px auto; padding: 10px 20px; width: 758px;
+}
+fieldset {
+	margin: 1em 0px; padding: 0px 10px; width: 180px;
+}
+label {
+	width: 160px; line-height: 1.8; vertical-align: top; display: inline-block;
+}
+#chooseDateForm li {
+	list-style: none; padding: 5px; clear: both;
+}
+select {
+	width: 100px;
+}
+input {
+	margin: 5px 0px; width: 170px;
+}
+input.dp-applied {
+	width: 140px; float: left;
+}
+a.dp-choose-date {
+	background: url("../images/calendar.png") no-repeat; margin: 5px 3px 0px; padding: 0px; width: 16px; height: 16px; text-indent: -2000px; overflow: hidden; float: left; display: block;
+}
+a.dp-disabled.dp-choose-date {
+	background-position: 0px -20px; cursor: default;
+}
+#calendar-me {
+	margin: 20px;
+}
+pre.sourcecode {
+	margin: 0px 0px 20px; padding: 10px; border: 2px dashed rgb(204, 204, 204); width: 734px; overflow: auto;
+}
